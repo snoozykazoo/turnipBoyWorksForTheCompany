@@ -5,6 +5,10 @@ Go buy the game!!! Please!!!
 
 ## Changelog
 
+v2.0.0
+- added Turnip Boy plushies as scrap!
+- added something else...
+
 v1.0.2
 - minor fixes.
 
@@ -13,3 +17,6 @@ v1.0.1
 
 v1.0.0
 - launched the pack!
+
+## Additional Attribution
+- [Squeaky Dog Toy SFX](https://freesound.org/people/DANMITCH3LL/sounds/232017/) by DANMITCH3LL
